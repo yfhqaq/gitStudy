@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 12345,我有修改,我再来修改一下
+=======
+12345,我有修改,woyexiugainiyixia
+>>>>>>> refs/remotes/origin/main
